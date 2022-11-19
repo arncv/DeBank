@@ -20,7 +20,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/arncv/solanahackday">
-    <img src="logoo.png" alt="Logo" width="300" height="240">
+    <img src="https://github.com/arncv/solanahackday/blob/main/DeBank.gif" alt="Logo" width="300" height="240">
   </a>
 
 <h3 align="center">DeBank</h3>
