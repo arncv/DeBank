@@ -23,7 +23,7 @@
     <img src="logoo.png" alt="Logo" width="300" height="240">
   </a>
 
-<h3 align="center">PROJECT NAME</h3>
+<h3 align="center">DeBank</h3>
 
   <p align="center">
      pitch
