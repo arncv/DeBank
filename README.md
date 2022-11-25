@@ -19,23 +19,23 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/arncv/solanahackday">
-    <img src="https://github.com/arncv/solanahackday/blob/main/DeBank.gif" alt="Logo" width="300" height="240">
+  <a href="https://github.com/arncv/DeBank">
+    <img src="https://github.com/arncv/DeBank/blob/main/DeBank.gif" alt="Logo" width="300" height="240">
   </a>
 
-<h3 align="center">DeBank</h3>
+<h3 align="center">DeBank - demystifying banking for all</h3>
 
   <p align="center">
-     pitch
+     100% decentralized P2P lending and borrowing platform for everyone!
     <br />
-    <a href=""><strong>Demo Video Link! »</strong></a>
+    <a href="https://youtu.be/VKB0Sj_1qzM"><strong>Demo Video Link! »</strong></a>
     <br />
     <br />
-    <a href="https://devpost.com/software/solanahackday">Devpost Link</a>
+    <a href="https://devfolio.co/projects/debank-demystifying-banking-for-all-2e55">Devfolio Link</a>
     ·
-    <a href="https://github.com/arncv/solanahackday/issues">Report Bug</a>
+    <a href="https://github.com/arncv/DeBank/issues">Report Bug</a>
     ·
-    <a href="https://github.com/arncv/solanahackday/issues">Request Feature</a>
+    <a href="https://github.com/arncv/DeBank/issues">Request Feature</a>
   </p>
 </div>
 
@@ -56,38 +56,28 @@
 
 
 ## Inspiration
- 
+ Traditional banking required so much centralization in hands of the bank. Banks acted as a mediator between the lender and the borrower and in return, levied high-interest rates as per their will.  DeBank is a unique platform connecting people and it serves as a permissionless and cheap protocol that democratizes borrowing and lending which allows you to make the most of your capital.
+
+
  
 
 ## What it does
 
+    People can also stake their portfolio with DeBank and in return, will be offered special airdrops.
 
+    With DeBank, it provides the opportunity for the borrower to cut back the rate of interest by providing a free choice to stake their collateral on our platform. Collaterals could be anything, even in the form of Non-Fungible Tokens(NFTs).
 
-
-
-## How we built it
+    being hosted on the Solana network DeBank ensures the security and provides transparency of each and every transaction with a unique hash ID that can be accessed by any user. It also provides extremely cheap and fast transactions, as compared to other blockchain networks,
  
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 ## Challenges we ran into
-
- 
-
-## Accomplishments that we're proud of
-
- 
- 
-
-## What we learned
-
-
-
-## What's next 
+Our team believes that behind each and every successful task there are some difficulties which we tend to overcome merrily, Time Constraint was one of the major challenges faced by us, along with the technical difficulties faced by us in integrating Solana into our project.
  
 
 
-See the [open issues](https://github.com/arncv/solanahackday/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/arncv/DeBank/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -125,7 +115,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Arnav Goel  - [@arnvgl](https://twitter.com/arnvgl) - arnvgl@pm.me
 
-Project Link: [https://github.com/arncv/solanahackday](https://github.com/arncv/solanahackday)
+Project Link: [https://github.com/arncv/DeBank](https://github.com/arncv/DeBank)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -134,7 +124,7 @@ Project Link: [https://github.com/arncv/solanahackday](https://github.com/arncv/
 ## Our ♥️ Contributors
 
 <a href="https://github.com/refinedev/refine/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=arncv/solanahackday" />
+  <img src="https://contrib.rocks/image?repo=arncv/DeBank" />
 </a>
 
 
@@ -149,15 +139,15 @@ Project Link: [https://github.com/arncv/solanahackday](https://github.com/arncv/
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/arncv/solanahackday.svg?style=for-the-badge
-[contributors-url]: https://github.com/arncv/solanahackday/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/arncv/solanahackday.svg?style=for-the-badge
-[forks-url]: https://github.com/arncv/solanahackday/network/members
-[stars-shield]: https://img.shields.io/github/stars/arncv/solanahackday.svg?style=for-the-badge
-[stars-url]:https://github.com/arncv/solanahackday/stargazers
-[issues-shield]: https://img.shields.io/github/issues/arncv/solanahackday.svg?style=for-the-badge
-[issues-url]: https://github.com/arncv/solanahackday/issues
-[license-shield]: https://img.shields.io/github/license/arncv/solanahackday.svg?style=for-the-badge
-[license-url]: https://github.com/arncv/solanahackday/blob/master/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/arncv/DeBank.svg?style=for-the-badge
+[contributors-url]: https://github.com/arncv/DeBank/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/arncv/DeBank.svg?style=for-the-badge
+[forks-url]: https://github.com/arncv/DeBank/network/members
+[stars-shield]: https://img.shields.io/github/stars/arncv/DeBank.svg?style=for-the-badge
+[stars-url]:https://github.com/arncv/DeBank/stargazers
+[issues-shield]: https://img.shields.io/github/issues/arncv/DeBank.svg?style=for-the-badge
+[issues-url]: https://github.com/arncv/DeBank/issues
+[license-shield]: https://img.shields.io/github/license/arncv/DeBank.svg?style=for-the-badge
+[license-url]: https://github.com/arncv/DeBank/blob/master/LICENSE
 
 [product-screenshot]: 
